@@ -1,0 +1,186 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Nikesh — AI Engineer, Full-Stack Developer, Computer Vision</title>
+<meta name="description" content="Portfolio of Nikesh: AI-powered products, computer vision, and full-stack applications.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;700;800&display=swap" rel="stylesheet">
+<style>
+:root{--bg:#0c1722;--panel:#13222f;--line:#24394a;--text:#e6edf3;--mute:#9fb2c2;--acc:#f0b84a;--link:#7cc4ff}
+@media (prefers-color-scheme:light){:root:not([data-theme=dark]){--bg:#f6f4ef;--panel:#fffdf8;--line:#ddd6c8;--text:#14212b;--mute:#566673;--acc:#a8650a;--link:#0b5fa5}}
+:root[data-theme=light]{--bg:#f6f4ef;--panel:#fffdf8;--line:#ddd6c8;--text:#14212b;--mute:#566673;--acc:#a8650a;--link:#0b5fa5}
+*{box-sizing:border-box}
+html{scroll-behavior:smooth;height:100%}
+body{margin:0;background:var(--bg);color:var(--text);font-family:Manrope,system-ui,Segoe UI,Arial,sans-serif;line-height:1.6;padding:env(safe-area-inset-top,0) 0 env(safe-area-inset-bottom,0)}
+a{color:var(--link);text-underline-offset:3px}
+a:focus-visible,button:focus-visible{outline:2px solid var(--acc);outline-offset:3px}
+.wrap{max-width:1040px;margin:0 auto;padding:0 22px}
+nav{display:flex;gap:18px;flex-wrap:wrap;justify-content:space-between;align-items:center;padding:20px 0;border-bottom:1px solid var(--line)}
+nav b{font-weight:800;letter-spacing:.02em}
+nav div{display:flex;gap:16px;flex-wrap:wrap;font-size:.92rem}
+nav a{color:var(--mute);text-decoration:none}nav a:hover{color:var(--text)}
+.hero{display:grid;grid-template-columns:1fr auto;gap:40px;align-items:center;padding:72px 0 56px}
+.hero h1{font-size:clamp(3.2rem,10vw,6.5rem);line-height:.95;margin:0 0 18px;font-weight:800;letter-spacing:-.04em}
+.hero p.role{font-size:1.2rem;color:var(--acc);font-weight:700;margin:0 0 14px}
+.hero p{max-width:56ch;color:var(--mute);margin:0 0 26px}
+.pic{width:200px;height:200px;border-radius:50%;border:3px solid var(--acc);background:var(--panel);display:grid;place-items:center;font-size:4rem;font-weight:800;color:var(--acc);overflow:hidden}
+.pic img{width:100%;height:100%;object-fit:cover}
+.btns{display:flex;gap:12px;flex-wrap:wrap}
+.btn{padding:10px 18px;border-radius:6px;border:1px solid var(--line);text-decoration:none;color:var(--text);font-weight:700;font-size:.95rem}
+.btn.p{background:var(--acc);border-color:var(--acc);color:#14120a}
+.btn:hover{border-color:var(--acc)}
+section{padding:48px 0;border-top:1px solid var(--line)}
+h2{font-size:1.7rem;margin:0 0 8px;letter-spacing:-.02em}
+.sub{color:var(--mute);margin:0 0 26px;max-width:62ch}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(290px,1fr));gap:16px}
+.card{background:var(--panel);border:1px solid var(--line);border-radius:8px;padding:20px;display:flex;flex-direction:column;gap:8px}
+.card h3{margin:0;font-size:1.1rem}
+.card p{margin:0;color:var(--mute);font-size:.95rem;flex:1}
+.focus{font-size:.82rem;color:var(--acc)}
+.links{display:flex;gap:14px;font-size:.9rem;font-weight:700}
+.tbl{overflow-x:auto}
+table{border-collapse:collapse;width:100%;min-width:620px}
+th,td{text-align:left;padding:12px 14px;border-bottom:1px solid var(--line);vertical-align:top;font-size:.95rem}
+th{color:var(--mute);font-weight:700}
+.tags{display:flex;flex-wrap:wrap;gap:8px;margin-bottom:18px}
+.tags span{border:1px solid var(--line);background:var(--panel);padding:5px 12px;border-radius:99px;font-size:.88rem}
+.sh{color:var(--mute);font-size:.8rem;margin:20px 0 8px;font-weight:700}
+.flow{display:flex;flex-wrap:wrap;gap:8px;align-items:center}
+.flow span{background:var(--panel);border:1px solid var(--line);padding:8px 12px;border-radius:6px;font-size:.88rem}
+.flow i{color:var(--acc);font-style:normal}
+ul.l{padding-left:20px;margin:0}ul.l li{margin:6px 0}
+.two{display:grid;grid-template-columns:1fr 1fr;gap:36px}
+.note{color:var(--mute);font-size:.82rem;margin-top:18px}
+footer{border-top:1px solid var(--line);padding:30px 0 40px;color:var(--mute);font-size:.9rem;text-align:center}
+@media(max-width:720px){.hero{grid-template-columns:1fr;padding-top:44px}.pic{order:-1;width:150px;height:150px;font-size:3rem}.two{grid-template-columns:1fr}}
+@media (prefers-reduced-motion:reduce){html{scroll-behavior:auto}}
+</style>
+</head>
+<body>
+<div class="wrap">
+<nav><b>Nikesh</b><div><a href="#about">About</a><a href="#builds">Builds</a><a href="#research">Research</a><a href="#stack">Stack</a><a href="#connect">Connect</a></div></nav>
+
+<header class="hero">
+<div>
+<h1>Nikesh</h1>
+<p class="role">AI Engineer · Full-Stack Developer · Computer Vision</p>
+<p>I build AI-powered products, intelligent applications, and data-driven experiences.</p>
+<div class="btns">
+<a class="btn p" href="#builds">See my builds</a>
+<a class="btn" href="https://github.com/nvaltryek-001">GitHub</a>
+<a class="btn" href="https://www.linkedin.com/in/nikesh-13ab91392/">LinkedIn</a>
+<a class="btn" href="mailto:nikeshnikesh32431@gmail.com">Email</a>
+</div>
+</div>
+<div class="pic"><img src="assets/nikesh-profile.png" alt="Nikesh — profile portrait" onerror="this.remove();this.parentNode.textContent='N'"></div>
+</header>
+
+<section id="about">
+<h2>About</h2>
+<p class="sub">I'm a Computer Science &amp; Engineering (Data Science) student based in India. I enjoy turning ideas into useful software, from AI/ML experiments and computer-vision pipelines to web applications, dashboards, and APIs.</p>
+<div class="two">
+<ul class="l">
+<li><b>Current direction:</b> AI engineering, full-stack development, and computer vision</li>
+<li><b>I like building:</b> end-to-end products, intelligent tools, data-driven apps, and practical demos</li>
+</ul>
+<ul class="l">
+<li><b>Career goal:</b> build impactful AI products and secure a software engineering role</li>
+<li><b>Approach:</b> learn by building, test ideas, ship useful work, and keep improving</li>
+</ul>
+</div>
+<p class="note">Make it useful. Make it reliable. Keep learning.</p>
+</section>
+
+<section id="builds">
+<h2>Featured builds</h2>
+<p class="sub">Deployed demos and their source code.</p>
+<div class="grid" id="builds-grid"></div>
+<p class="note">Demo links may change over time. Descriptions summarize project context and are not measured performance claims.</p>
+</section>
+
+<section id="research">
+<h2>Research &amp; other projects</h2>
+<div class="tbl"><table>
+<thead><tr><th>Project</th><th>Overview</th><th>Repository</th></tr></thead>
+<tbody id="rows"></tbody></table></div>
+</section>
+
+<section id="stack">
+<h2>Technology stack</h2>
+<p class="sub">Tools used or explored across these projects, not a claim of expert-level skill in each.</p>
+<div class="sh">Languages</div><div class="tags"><span>Python</span><span>Java</span><span>JavaScript</span><span>TypeScript</span><span>SQL</span></div>
+<div class="sh">AI, machine learning, computer vision</div><div class="tags"><span>TensorFlow</span><span>OpenCV</span><span>scikit-learn</span><span>MediaPipe</span><span>InsightFace</span><span>ONNX Runtime</span></div>
+<div class="sh">Frontend, backend, data</div><div class="tags"><span>React</span><span>Vite</span><span>Tailwind</span><span>Node.js</span><span>Express</span><span>FastAPI</span><span>MongoDB</span><span>MySQL</span><span>SQLite</span><span>Firebase</span><span>Supabase</span><span>Git &amp; GitHub</span></div>
+</section>
+
+<section id="process">
+<h2>How I build</h2>
+<p class="sub">A representative workflow, not a claim that every project uses the same architecture.</p>
+<div class="flow"><span>Problem / user need</span><i>→</i><span>Input &amp; data</span><i>→</i><span>Logic / API</span><i>→</i><span>AI / ML or business logic</span><i>→</i><span>Database / storage</span><i>→</i><span>UI / results</span><i>→</i><span>Test, deploy, improve</span></div>
+</section>
+
+<section id="focus">
+<h2>Growth &amp; current focus</h2>
+<div class="two">
+<ul class="l">
+<li>Building and iterating on AI, computer-vision, analytics, and full-stack projects.</li>
+<li>Practicing DSA patterns and software-engineering fundamentals.</li>
+<li>Exploring model pipelines, APIs, deployment, and end-to-end product engineering.</li>
+</ul>
+<ul class="l">
+<li>Build practical AI products with clear user value.</li>
+<li>Improve computer-vision and machine-learning workflows.</li>
+<li>Strengthen backend, full-stack, and deployment skills.</li>
+<li>Prepare for software-engineering opportunities.</li>
+</ul>
+</div>
+<p class="note">Certifications and experience are on <a href="https://www.linkedin.com/in/nikesh-13ab91392/">LinkedIn</a>.</p>
+</section>
+
+<section id="connect">
+<h2>Let's connect</h2>
+<p class="sub">Open to learning, collaboration, and meaningful engineering opportunities.</p>
+<div class="btns">
+<a class="btn p" href="mailto:nikeshnikesh32431@gmail.com">Say hello</a>
+<a class="btn" href="https://github.com/nvaltryek-001">Explore my work</a>
+<a class="btn" href="https://www.linkedin.com/in/nikesh-13ab91392/">Connect</a>
+</div>
+</section>
+</div>
+<footer>Build with purpose. Learn continuously. Ship and improve.</footer>
+
+<script>
+const B=[
+["EURS AI Studio","AI image-restoration and semantic-segmentation project interface.","Image processing · AI workflows","https://eurs-ai-studio.vercel.app","https://github.com/nvaltryek-001/EURS-ai-studio"],
+["MarketMind","Stock-intelligence application exploring market analysis and decision support.","Data-driven insights · Web application","https://market-mind-zeta-pearl.vercel.app","https://github.com/nvaltryek-001/MarketMind"],
+["Smart College Attendance","Attendance demo built around face-recognition workflows.","Computer vision · Attendance automation","https://smart-attendance-demo-1.onrender.com","https://github.com/nvaltryek-001/smart-attendance-demo"],
+["DataVisionPro","AI-powered analytics dashboard for exploring and presenting data.","Analytics · Dashboard development","https://datavision-pro-1.onrender.com","https://github.com/nvaltryek-001/DataVision-Pro"],
+["GHARLIST","Smart family-shopping assistant for browsing products and preparing shopping lists.","Product discovery · Shopping workflow","https://gharlist.netlify.app","https://github.com/nvaltryek-001/GHARLIST"],
+["Car Price Estimator","A deployed used-car price estimation application.","Predictive analytics · ML application","https://carpriceestimation-9xuvjxsw3-nvaltryek-001.vercel.app/","https://github.com/nvaltryek-001/car-price-estimator"],
+["Mall Customer Segmentation","Customer-segmentation project focused on data analysis and audience grouping.","Data science · Unsupervised learning","https://mall-customer-segmentation-mn873eb0k-nvaltryek-001.vercel.app/","https://github.com/nvaltryek-001/mall-customer-segmentation"],
+["Apt-IQ","Aptitude-practice application.","Learning tools · Web development","https://apt-iq-alpha.vercel.app","https://github.com/nvaltryek-001/AptIQ"],
+["MCQ Platform","Multiple-choice quiz application.","Assessment workflows · Web development","https://mcq-r6wr.vercel.app","https://github.com/nvaltryek-001/MCQ"],
+["Human Battery","Energy check-ins, dashboard, and insights in a deployed web project.","Web development","https://human-battery.vercel.app",""]];
+const R=[
+["ISL Recognition Research","Indian Sign Language recognition using MediaPipe landmarks and LSTM/GRU sequence models; 45-frame sequences, 50 classes.","Indian-Sign-Language-Recognition"],
+["EduLens","Facial-recognition attendance project exploring InsightFace, OpenCV, ONNX Runtime, and SQLite.","Edulens"],
+["ArtifactScan AI","3D artifact digitization and categorization concept using photogrammetry and AI-assisted descriptions.","artifactscan-ai"],
+["EngineerOS AI","AI-focused engineering workspace concept with a React/Vite frontend and Node/Express API.","EngineerOS-AI"],
+["FoodSense AI / Food Ordering","Food-ordering application.","Food-Ordering"],
+["Valtryek Smart City / CityPulse AI","Smart-city concept focused on connected urban services and infrastructure workflows.","CityPulse-AI"],
+["LeetCode Practice","Data structures and algorithms practice.","Leetcode"]];
+const g=document.getElementById("builds-grid");
+B.forEach(b=>{const c=document.createElement("article");c.className="card";
+c.innerHTML=`<h3></h3><p></p><div class="focus"></div><div class="links"><a target="_blank" rel="noopener">Open demo</a>${b[4]?'<a class="s" target="_blank" rel="noopener">Source</a>':''}</div>`;
+c.querySelector("h3").textContent=b[0];c.querySelector("p").textContent=b[1];c.querySelector(".focus").textContent=b[2];
+c.querySelector("a").href=b[3];if(b[4])c.querySelector(".s").href=b[4];g.appendChild(c)});
+const t=document.getElementById("rows");
+R.forEach(r=>{const tr=document.createElement("tr");
+tr.innerHTML=`<td><b></b></td><td></td><td><a target="_blank" rel="noopener"></a></td>`;
+tr.querySelector("b").textContent=r[0];tr.children[1].textContent=r[1];
+const a=tr.querySelector("a");a.href="https://github.com/nvaltryek-001/"+r[2];a.textContent=r[2];t.appendChild(tr)});
+</script>
+</body>
+</html>
