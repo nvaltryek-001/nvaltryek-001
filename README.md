@@ -16,6 +16,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/nikesh-13ab91392/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:nikeshnikesh32431@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://nvaltryek-001.github.io/nvaltryek-001/"><img src="https://img.shields.io/badge/Portfolio-Visit-FFB43C?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Portfolio website" /></a>
   <a href="https://github.com/nvaltryek-001?tab=repositories"><img src="https://img.shields.io/badge/Repositories-25%2B-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" /></a>
   <img src="https://komarev.com/ghpvc/?username=nvaltryek-001&style=for-the-badge&color=00d9ff&label=PROFILE+VIEWS" alt="Profile views" />
 </p>
