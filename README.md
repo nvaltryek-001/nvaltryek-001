@@ -13,6 +13,8 @@
   </a>
 </p>
 
+<h3 align="center">🌐 <a href="https://nvaltryek-001.github.io/nvaltryek-001/">nvaltryek-001.github.io/nvaltryek-001</a></h3>
+
 <p align="center">
   <a href="https://www.linkedin.com/in/nikesh-13ab91392/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:nikeshnikesh32431@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
@@ -286,6 +288,8 @@ flowchart LR
 ---
 
 ## 🤝 Let's Connect
+
+<p align="center">🌐 <b>Portfolio:</b> <a href="https://nvaltryek-001.github.io/nvaltryek-001/">https://nvaltryek-001.github.io/nvaltryek-001/</a></p>
 
 <p align="center">
   <b>Open to internships, SDE roles, and collaborations on AI / CV projects.</b><br/><br/>
