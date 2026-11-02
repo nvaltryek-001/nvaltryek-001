@@ -1,264 +1,303 @@
-  <div align="center">
+<!-- ═══════════════════════ ANIMATED HEADER ═══════════════════════ -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:00d9ff&height=220&section=header&text=Hi,%20I'm%20Nikesh&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI%20Engineer%20%E2%80%A2%20Full-Stack%20Developer%20%E2%80%A2%20Computer%20Vision&descAlignY=56&descSize=18" width="100%" alt="Header banner" />
+</p>
 
-<img src="assets/nikesh-profile.jpg" width="180" alt="Nikesh — profile portrait" />
+<p align="center">
+  <img src="assets/nikesh-profile.jpg" width="150" alt="Nikesh — profile portrait" />
+</p>
 
-# NIKESH
+<p align="center">
+  <a href="https://github.com/nvaltryek-001">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=640&lines=Building+AI-powered+products+%F0%9F%A4%96;Computer+Vision+%7C+Machine+Learning+%7C+Data+Science;Full-Stack+apps+with+React%2C+Node+%26+FastAPI;25%2B+repositories+%7C+10%2B+live+apps+%F0%9F%9A%80;Learn+by+building.+Ship.+Improve." alt="Typing animation" />
+  </a>
+</p>
 
-### AI Engineer · Full-Stack Developer · Computer Vision
-
-Building AI-powered products, intelligent applications, and data-driven experiences.
-
-[![GitHub](https://img.shields.io/badge/GitHub-nvaltryek--001-181717?style=for-the-badge&logo=github)](https://github.com/nvaltryek-001)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nikesh-13ab91392/)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail)](mailto:nikeshnikesh32431@gmail.com)
-
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/nikesh-13ab91392/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:nikeshnikesh32431@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/nvaltryek-001?tab=repositories"><img src="https://img.shields.io/badge/Repositories-25%2B-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" /></a>
+  <img src="https://komarev.com/ghpvc/?username=nvaltryek-001&style=for-the-badge&color=00d9ff&label=PROFILE+VIEWS" alt="Profile views" />
+</p>
 
 ---
 
-## About Me
-
-Hi! I'm **Nikesh**, a Computer Science and Engineering student specializing in Data Science. I enjoy transforming ideas into practical software through AI, machine learning, computer vision, analytics, and full-stack development.
-
-- **Focus:** AI engineering, computer vision, and full-stack development
-- **Interests:** Intelligent applications, data-driven products, and software engineering
-- **Career goal:** Build impactful AI products and secure a software engineering role
-- **Engineering mindset:** Learn by building, test ideas, deploy useful solutions, and continuously improve.
-
-## Featured Projects
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" alt="wave" /> About Me
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="58%" valign="top">
 
-### [EURS AI Studio](https://eurs-ai-studio.vercel.app)
+```python
+class Nikesh:
+    def __init__(self):
+        self.role       = "AI Engineer & Full-Stack Developer"
+        self.education  = "B.E. CSE (Data Science)"
+        self.focus      = ["Computer Vision", "Machine Learning",
+                           "Full-Stack Development", "Data Analytics"]
+        self.building   = "Practical AI products with real user value"
+        self.learning   = ["Model pipelines", "Backend & deployment", "DSA"]
+        self.goal       = "Software Engineering role → impactful AI products"
+        self.motto      = "Learn by building. Ship. Improve."
 
-AI image-restoration and semantic-segmentation project interface.
-
-**Focus:** Image processing · AI workflows
-
-[Live Demo](https://eurs-ai-studio.vercel.app) · [Source Code](https://github.com/nvaltryek-001/EURS-ai-studio)
-
-</td>
-<td width="50%" valign="top">
-
-### [MarketMind](https://market-mind-zeta-pearl.vercel.app)
-
-Stock-intelligence application exploring market analysis and decision support.
-
-**Focus:** Data-driven insights · Web applications
-
-[Live Demo](https://market-mind-zeta-pearl.vercel.app) · [Source Code](https://github.com/nvaltryek-001/MarketMind)
+    def say_hi(self):
+        print("Open to collaboration & engineering opportunities 🚀")
+```
 
 </td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+<td width="42%" valign="top">
 
-### [Smart College Attendance](https://smart-attendance-demo-1.onrender.com)
-
-Attendance demo built around face-recognition workflows.
-
-**Focus:** Computer vision · Attendance automation
-
-[Live Demo](https://smart-attendance-demo-1.onrender.com) · [Source Code](https://github.com/nvaltryek-001/smart-attendance-demo)
-
-</td>
-<td width="50%" valign="top">
-
-### [DataVisionPro](https://datavision-pro-1.onrender.com/)
-
-AI-powered analytics dashboard for exploring and presenting data.
-
-**Focus:** Analytics · Dashboard development
-
-[Live Demo](https://datavision-pro-1.onrender.com/) · [Source Code](https://github.com/nvaltryek-001/DataVision-Pro)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### [GHARLIST](https://gharlist.netlify.app)
-
-Smart family-shopping assistant for browsing products and preparing shopping lists.
-
-**Focus:** Product discovery · Shopping workflows
-
-[Live Demo](https://gharlist.netlify.app) · [Source Code](https://github.com/nvaltryek-001/GHARLIST)
-
-</td>
-<td width="50%" valign="top">
-
-### [Car Price Estimator](https://carpriceestimation-9xuvjxsw3-nvaltryek-001.vercel.app/)
-
-Used-car price estimation application.
-
-**Focus:** Predictive analytics · Machine learning
-
-[Live Demo](https://carpriceestimation-9xuvjxsw3-nvaltryek-001.vercel.app/) · [Source Code](https://github.com/nvaltryek-001/car-price-estimator)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### [Mall Customer Segmentation](https://mall-customer-segmentation-mn873eb0k-nvaltryek-001.vercel.app/)
-
-Customer-segmentation project focused on data analysis and audience grouping.
-
-**Focus:** Data science · Unsupervised learning
-
-[Live Demo](https://mall-customer-segmentation-mn873eb0k-nvaltryek-001.vercel.app/) · [Source Code](https://github.com/nvaltryek-001/mall-customer-segmentation)
-
-</td>
-<td width="50%" valign="top">
-
-### [Apt-IQ](https://apt-iq-alpha.vercel.app)
-
-Aptitude-practice application.
-
-**Focus:** Learning tools · Web development
-
-[Live Demo](https://apt-iq-alpha.vercel.app) · [Source Code](https://github.com/nvaltryek-001/AptIQ)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### [MCQ Platform](https://mcq-r6wr.vercel.app)
-
-Multiple-choice quiz application.
-
-**Focus:** Assessment workflows · Web development
-
-[Live Demo](https://mcq-r6wr.vercel.app) · [Source Code](https://github.com/nvaltryek-001/MCQ)
-
-</td>
-<td width="50%" valign="top">
-
-### [Human Battery](https://human-battery.vercel.app)
-
-Web application featuring energy check-ins, a dashboard, and insights.
-
-[Live Demo](https://human-battery.vercel.app)
+- 🔭 Building **AI + computer-vision** apps end to end
+- 🧠 Researching **Indian Sign Language recognition** with MediaPipe + sequence models
+- 🌐 Shipping **full-stack** apps on Vercel, Render & Netlify
+- 📊 Turning data into **dashboards & insights**
+- 🧩 Practicing **DSA** daily on LeetCode
+- 💬 Ask me about **OpenCV, React, FastAPI, ML**
 
 </td>
 </tr>
 </table>
 
-## Research and Other Projects
+---
 
-| Project | Overview | Repository |
-|---|---|---|
-| **ISL Recognition Research** | Indian Sign Language recognition using MediaPipe landmarks and sequence models. | [Indian-Sign-Language-Recognition](https://github.com/nvaltryek-001/Indian-Sign-Language-Recognition) |
-| **EduLens** | Facial-recognition attendance project exploring InsightFace, OpenCV, and SQLite. | [EduLens](https://github.com/nvaltryek-001/Edulens) |
-| **ArtifactScan AI** | 3D artifact digitization and AI-assisted categorization concept. | [ArtifactScan AI](https://github.com/nvaltryek-001/artifactscan-ai) |
-| **EngineerOS AI** | AI-focused engineering workspace with frontend and API development. | [EngineerOS AI](https://github.com/nvaltryek-001/EngineerOS-AI) |
-| **FoodSense AI / Food Ordering** | Food-ordering application. | [Food Ordering](https://github.com/nvaltryek-001/Food-Ordering) |
-| **Valtryek Smart City / CityPulse AI** | Smart-city application concept for connected urban services. | [CityPulse AI](https://github.com/nvaltryek-001/CityPulse-AI) |
-| **LeetCode Practice** | Data structures and algorithms practice. | [LeetCode](https://github.com/nvaltryek-001/Leetcode) |
+## 🛠️ Tech Stack
 
-## Technology Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,java,js,ts,mysql&theme=dark" alt="Languages" /><br/>
+  <img src="https://skillicons.dev/icons?i=tensorflow,opencv,sklearn&theme=dark" alt="AI and ML" /><br/>
+  <img src="https://skillicons.dev/icons?i=react,vite,tailwind,nodejs,express,fastapi&theme=dark" alt="Web" /><br/>
+  <img src="https://skillicons.dev/icons?i=mongodb,firebase,supabase,git,github,vercel&theme=dark" alt="Data and tools" />
+</p>
 
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-**AI, Machine Learning and Computer Vision**
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square)
-
-**Frontend, Backend and Data**
-
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-
-*This stack reflects technologies used or explored across my projects, not a claim of expert-level proficiency in every tool.*
-
-## How I Build
-
-```mermaid
-flowchart LR
-    A[Problem / User Need] --> B[Input & Data]
-    B --> C[Application Logic / API]
-    C --> D[AI / ML or Business Logic]
-    D --> E[Database / Storage]
-    E --> F[UI / Results]
-    F --> G[Test, Deploy, Improve]
-```
-
-My general development workflow:
-
-1. Understand the problem and define the desired outcome.
-2. Build the interface and data/API flow.
-3. Integrate AI, ML, or application logic where it adds value.
-4. Validate outputs and handle failure cases.
-5. Deploy, observe, and improve.
-
-*This is a representative workflow; not every project uses the same architecture.*
-
-## GitHub Statistics
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=nvaltryek-001&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github" alt="GitHub statistics" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nvaltryek-001&layout=compact&hide_border=true&theme=github_dark" alt="Most-used languages" />
-
-<img src="https://streak-stats.demolab.com?user=nvaltryek-001&theme=github-dark-blue&hide_border=true" alt="GitHub contribution streak" />
-
-</div>
-
-*Statistics are provided by third-party services and may occasionally be unavailable.*
-
-## Achievements and Growth
-
-- Building and improving AI, computer-vision, analytics, and full-stack projects.
-- Practicing data structures and algorithms and software-engineering fundamentals.
-- Exploring model pipelines, APIs, deployment, and end-to-end product development.
-- Continuously learning through implementation and experimentation.
-
-For professional experience and certifications, visit my [LinkedIn profile](https://www.linkedin.com/in/nikesh-13ab91392/).
-
-## Current Focus
-
-- Build practical AI products with clear user value.
-- Improve computer-vision and machine-learning workflows.
-- Strengthen backend, full-stack, and deployment skills.
-- Practice DSA and prepare for software-engineering opportunities.
-
-## Let's Connect
-
-<div align="center">
-
-**Open to learning, collaboration, and meaningful engineering opportunities.**
-
-[![GitHub](https://img.shields.io/badge/GitHub-Explore_my_work-181717?style=for-the-badge&logo=github)](https://github.com/nvaltryek-001)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nikesh-13ab91392/)
-[![Email](https://img.shields.io/badge/Email-Say_hello-EA4335?style=for-the-badge&logo=gmail)](mailto:nikeshnikesh32431@gmail.com)
-
-**Build with purpose · Learn continuously · Ship and improve**
-
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square&logo=google&logoColor=white" alt="MediaPipe" />
+  <img src="https://img.shields.io/badge/InsightFace-5C3EE8?style=flat-square" alt="InsightFace" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black" alt="Render" />
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white" alt="Netlify" />
+</p>
 
 ---
 
-<sub>Project descriptions are concise summaries. Demo availability may change; verify links before presenting them to recruiters.</sub>
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🎨 [EURS AI Studio](https://eurs-ai-studio.vercel.app)
+AI **image restoration** and **semantic segmentation** studio.
+
+`Computer Vision` `Image Processing` `AI Workflows`
+
+<a href="https://eurs-ai-studio.vercel.app"><img src="https://img.shields.io/badge/Live_Demo-00D9FF?style=flat-square&logo=vercel&logoColor=black" alt="Live demo" /></a>
+<a href="https://github.com/nvaltryek-001/EURS-ai-studio"><img src="https://img.shields.io/badge/Source-181717?style=flat-square&logo=github" alt="Source" /></a>
+
+</td>
+<td width="50%" valign="top">
+
+### 📈 [MarketMind](https://market-mind-zeta-pearl.vercel.app)
+**Stock-intelligence** app for market analysis and decision support.
+
+`Data Analytics` `Finance` `Web App`
+
+<a href="https://market-mind-zeta-pearl.vercel.app"><img src="https://img.shields.io/badge/Live_Demo-00D9FF?style=flat-square&logo=vercel&logoColor=black" alt="Live demo" /></a>
+<a href="https://github.com/nvaltryek-001/MarketMind"><img src="https://img.shields.io/badge/Source-181717?style=flat-square&logo=github" alt="Source" /></a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🧑‍🎓 [Smart College Attendance](https://smart-attendance-demo-1.onrender.com)
+**Face-recognition** attendance automation for classrooms.
+
+`Computer Vision` `Face Recognition` `Automation`
+
+<a href="https://smart-attendance-demo-1.onrender.com"><img src="https://img.shields.io/badge/Live_Demo-46E3B7?style=flat-square&logo=render&logoColor=black" alt="Live demo" /></a>
+<a href="https://github.com/nvaltryek-001/smart-attendance-demo"><img src="https://img.shields.io/badge/Source-181717?style=flat-square&logo=github" alt="Source" /></a>
+
+</td>
+<td width="50%" valign="top">
+
+### 📊 [DataVisionPro](https://datavision-pro-1.onrender.com/)
+**AI-powered analytics dashboard** for exploring and presenting data.
+
+`Analytics` `Dashboards` `Data Viz`
+
+<a href="https://datavision-pro-1.onrender.com/"><img src="https://img.shields.io/badge/Live_Demo-46E3B7?style=flat-square&logo=render&logoColor=black" alt="Live demo" /></a>
+<a href="https://github.com/nvaltryek-001/DataVision-Pro"><img src="https://img.shields.io/badge/Source-181717?style=flat-square&logo=github" alt="Source" /></a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🛒 [GHARLIST](https://gharlist.netlify.app)
+Smart **family-shopping assistant** — browse products, build lists.
+
+`Product Discovery` `Web App`
+
+<a href="https://gharlist.netlify.app"><img src="https://img.shields.io/badge/Live_Demo-00C7B7?style=flat-square&logo=netlify&logoColor=white" alt="Live demo" /></a>
+<a href="https://github.com/nvaltryek-001/GHARLIST"><img src="https://img.shields.io/badge/Source-181717?style=flat-square&logo=github" alt="Source" /></a>
+
+</td>
+<td width="50%" valign="top">
+
+### 🚗 [Car Price Estimator](https://carpriceestimation-9xuvjxsw3-nvaltryek-001.vercel.app/)
+**ML regression** app that predicts used-car prices.
+
+`Machine Learning` `Predictive Analytics`
+
+<a href="https://carpriceestimation-9xuvjxsw3-nvaltryek-001.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-00D9FF?style=flat-square&logo=vercel&logoColor=black" alt="Live demo" /></a>
+<a href="https://github.com/nvaltryek-001/car-price-estimator"><img src="https://img.shields.io/badge/Source-181717?style=flat-square&logo=github" alt="Source" /></a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🛍️ [Mall Customer Segmentation](https://mall-customer-segmentation-mn873eb0k-nvaltryek-001.vercel.app/)
+**Unsupervised learning** to group customers into audiences.
+
+`Clustering` `Data Science`
+
+<a href="https://mall-customer-segmentation-mn873eb0k-nvaltryek-001.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-00D9FF?style=flat-square&logo=vercel&logoColor=black" alt="Live demo" /></a>
+<a href="https://github.com/nvaltryek-001/mall-customer-segmentation"><img src="https://img.shields.io/badge/Source-181717?style=flat-square&logo=github" alt="Source" /></a>
+
+</td>
+<td width="50%" valign="top">
+
+### 🧮 [Apt-IQ](https://apt-iq-alpha.vercel.app)
+**Aptitude-practice** platform for placement prep.
+
+`EdTech` `Web Development`
+
+<a href="https://apt-iq-alpha.vercel.app"><img src="https://img.shields.io/badge/Live_Demo-00D9FF?style=flat-square&logo=vercel&logoColor=black" alt="Live demo" /></a>
+<a href="https://github.com/nvaltryek-001/AptIQ"><img src="https://img.shields.io/badge/Source-181717?style=flat-square&logo=github" alt="Source" /></a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📝 [MCQ Platform](https://mcq-r6wr.vercel.app)
+**Multiple-choice quiz** app for assessments.
+
+`Assessment` `Web Development`
+
+<a href="https://mcq-r6wr.vercel.app"><img src="https://img.shields.io/badge/Live_Demo-00D9FF?style=flat-square&logo=vercel&logoColor=black" alt="Live demo" /></a>
+<a href="https://github.com/nvaltryek-001/MCQ"><img src="https://img.shields.io/badge/Source-181717?style=flat-square&logo=github" alt="Source" /></a>
+
+</td>
+<td width="50%" valign="top">
+
+### 🔋 [Human Battery](https://human-battery.vercel.app)
+**Energy check-ins**, a personal dashboard and insights.
+
+`Wellbeing` `Dashboard`
+
+<a href="https://human-battery.vercel.app"><img src="https://img.shields.io/badge/Live_Demo-00D9FF?style=flat-square&logo=vercel&logoColor=black" alt="Live demo" /></a>
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🔬 Research & Experiments
+
+<details open>
+<summary><b>Click to expand / collapse</b></summary>
+<br/>
+
+| | Project | What it is | Repo |
+|:-:|---|---|:-:|
+| 🤟 | **ISL Recognition Research** | Indian Sign Language recognition with MediaPipe landmarks + sequence models | [→](https://github.com/nvaltryek-001/Indian-Sign-Language-Recognition) |
+| 👁️ | **EduLens** | Facial-recognition attendance using InsightFace, OpenCV & SQLite | [→](https://github.com/nvaltryek-001/Edulens) |
+| 🏺 | **ArtifactScan AI** | 3D artifact digitization + AI-assisted categorization concept | [→](https://github.com/nvaltryek-001/artifactscan-ai) |
+| ⚙️ | **EngineerOS AI** | AI-focused engineering workspace with frontend + API | [→](https://github.com/nvaltryek-001/EngineerOS-AI) |
+| 🍔 | **FoodSense AI** | Food-ordering application | [→](https://github.com/nvaltryek-001/Food-Ordering) |
+| 🏙️ | **CityPulse AI** | Smart-city concept for connected urban services | [→](https://github.com/nvaltryek-001/CityPulse-AI) |
+| 🧩 | **LeetCode** | Data structures & algorithms practice | [→](https://github.com/nvaltryek-001/Leetcode) |
+
+</details>
+
+<p align="center"><a href="https://github.com/nvaltryek-001?tab=repositories"><b>➜ Browse all 25+ repositories</b></a></p>
+
+---
+
+## 🧭 How I Build
+
+```mermaid
+flowchart LR
+    A([🎯 Problem]) --> B[📥 Data & Input]
+    B --> C[⚙️ API / Logic]
+    C --> D{{🤖 AI / ML}}
+    D --> E[(🗄️ Storage)]
+    E --> F[🖥️ UI & Results]
+    F --> G([🚀 Test · Deploy · Improve])
+    G -. feedback .-> A
+```
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=nvaltryek-001&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github&count_private=true" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nvaltryek-001&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=nvaltryek-001&theme=tokyonight&hide_border=true" alt="Contribution streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nvaltryek-001&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Contribution activity graph" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nvaltryek-001/nvaltryek-001/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nvaltryek-001/nvaltryek-001/output/github-snake.svg" />
+    <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/nvaltryek-001/nvaltryek-001/output/github-snake-dark.svg" />
+  </picture>
+</p>
+
+---
+
+## 🎯 Current Focus
+
+<table>
+<tr>
+<td align="center" width="25%">🤖<br/><b>AI Products</b><br/><sub>Practical tools with clear user value</sub></td>
+<td align="center" width="25%">👁️<br/><b>Computer Vision</b><br/><sub>Better CV & ML pipelines</sub></td>
+<td align="center" width="25%">🌐<br/><b>Backend & Deploy</b><br/><sub>APIs, infra, production apps</sub></td>
+<td align="center" width="25%">🧩<br/><b>DSA</b><br/><sub>Interview-ready fundamentals</sub></td>
+</tr>
+</table>
+
+---
+
+## 🤝 Let's Connect
+
+<p align="center">
+  <b>Open to internships, SDE roles, and collaborations on AI / CV projects.</b><br/><br/>
+  <a href="https://www.linkedin.com/in/nikesh-13ab91392/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:nikeshnikesh32431@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/nvaltryek-001"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4000&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=Build+with+purpose+%E2%9A%A1;Learn+continuously+%F0%9F%93%9A;Ship+and+improve+%F0%9F%9A%80;Thanks+for+visiting!+%E2%AD%90" alt="Footer typing animation" />
+</p>
+
+<!-- ═══════════════════════ ANIMATED FOOTER ═══════════════════════ -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d9ff,50:302b63,100:0f0c29&height=120&section=footer" width="100%" alt="Footer banner" />
+</p>
