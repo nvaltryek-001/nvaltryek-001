@@ -103,10 +103,11 @@ Cheque OCR, field validation and signature verification for Indian **CTS-2010** 
 | Full-stack | [EngineerOS AI](https://github.com/nvaltryek-001/EngineerOS-AI) | Student workspace: AI mentor, resume builder, placement tracker |
 | Data | [DataVision Pro](https://github.com/nvaltryek-001/DataVision-Pro) | Upload CSV/Excel/JSON → stats, charts, data quality and insights · [demo](https://datavision-pro-1.onrender.com/) |
 | Data | [MarketMind](https://github.com/nvaltryek-001/MarketMind) | Indian equities analysis with technical and AI layers |
-| Data | [Mall Segmentation](https://github.com/nvaltryek-001/mall-customer-segmentation) · [Car Price Estimator](https://github.com/nvaltryek-001/car-price-estimator) | Clustering and regression projects (car price is a team project) |
+| Data | [Car Price Estimator](https://github.com/nvaltryek-001/car-price-estimator) | Random Forest vs linear baseline with reproduced metrics and evaluation charts (team project) |
+| Data | [Mall Segmentation](https://github.com/nvaltryek-001/mall-customer-segmentation) | K-Means customer segmentation dashboard (prototype) |
 | Web | [AptIQ](https://github.com/nvaltryek-001/AptIQ) · [MCQ](https://github.com/nvaltryek-001/MCQ) · [GitVerse](https://github.com/nvaltryek-001/gitverse-academy) | Adaptive aptitude trainer (840 Qs), timed placement MCQs (210 Qs), interactive Git learning app |
 | Web | [Saptham ERP](https://github.com/nvaltryek-001/saptham) · [Alya's ERP](https://github.com/nvaltryek-001/Alya-s-ERP) | College ERP front ends |
-| DSA | [LeetCode](https://github.com/nvaltryek-001/Leetcode) | Algorithm practice in Python and Java |
+| DSA | [LeetCode](https://github.com/nvaltryek-001/Leetcode) | Python and Java solutions, each covered by automated tests in CI |
 
 ---
 
