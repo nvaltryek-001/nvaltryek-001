@@ -94,15 +94,18 @@ Cheque OCR, field validation and signature verification for Indian **CTS-2010** 
 |---|---|---|
 | AI / CV | [ISL Recognition](https://github.com/nvaltryek-001/Indian-Sign-Language-Recognition) | MediaPipe hands + LSTM + DTW on INCLUDE-50, with measured per-sign evaluation |
 | AI / CV | [EURS AI Studio](https://github.com/nvaltryek-001/EURS-ai-studio) | Underwater image restoration and 5-class semantic segmentation · [demo](https://eurs-ai-studio.vercel.app) |
+| AI / CV | [ArtifactScan AI](https://github.com/nvaltryek-001/Artifactscan-) | Artifact records with provenance, validated uploads and COLMAP photo-to-3D jobs |
 | AI / CV | [Smart Attendance](https://github.com/nvaltryek-001/smart-attendance-demo) · [EduLens](https://github.com/nvaltryek-001/Edulens) | Face-recognition attendance from a single classroom photo |
 | Full-stack | [TaskFlow](https://github.com/nvaltryek-001/TASKFLOW-) | Tasks, notes, Pomodoro, goals and server-side email reminders · [demo](https://taskflow-api-t19t.onrender.com) |
 | Full-stack | [CityPulse AI](https://github.com/nvaltryek-001/CityPulse-AI) | Civic-issue reporting with Gemini analysis, maps and MongoDB |
+| Full-stack | [Valtryek](https://github.com/nvaltryek-001/Agentic-AI-Utility-System) | Utility-fault reporting with role dashboards, Leaflet map and Socket.io live updates |
 | Full-stack | [FoodSense AI](https://github.com/nvaltryek-001/Food-Ordering) | Food ordering with cart, orders and review analysis |
 | Full-stack | [EngineerOS AI](https://github.com/nvaltryek-001/EngineerOS-AI) | Student workspace: AI mentor, resume builder, placement tracker |
 | Data | [DataVision Pro](https://github.com/nvaltryek-001/DataVision-Pro) | Upload CSV/Excel/JSON → stats, charts, data quality and insights · [demo](https://datavision-pro-1.onrender.com/) |
 | Data | [MarketMind](https://github.com/nvaltryek-001/MarketMind) | Indian equities analysis with technical and AI layers |
 | Data | [Mall Segmentation](https://github.com/nvaltryek-001/mall-customer-segmentation) · [Car Price Estimator](https://github.com/nvaltryek-001/car-price-estimator) | Clustering and regression projects (car price is a team project) |
-| Web | [AptIQ](https://github.com/nvaltryek-001/AptIQ) · [MCQ](https://github.com/nvaltryek-001/MCQ) · [Saptham ERP](https://github.com/nvaltryek-001/saptham) · [Alya's ERP](https://github.com/nvaltryek-001/Alya-s-ERP) | Aptitude practice, quiz platform and college ERP front ends |
+| Web | [AptIQ](https://github.com/nvaltryek-001/AptIQ) · [MCQ](https://github.com/nvaltryek-001/MCQ) · [GitVerse](https://github.com/nvaltryek-001/gitverse-academy) | Adaptive aptitude trainer (840 Qs), timed placement MCQs (210 Qs), interactive Git learning app |
+| Web | [Saptham ERP](https://github.com/nvaltryek-001/saptham) · [Alya's ERP](https://github.com/nvaltryek-001/Alya-s-ERP) | College ERP front ends |
 | DSA | [LeetCode](https://github.com/nvaltryek-001/Leetcode) | Algorithm practice in Python and Java |
 
 ---
