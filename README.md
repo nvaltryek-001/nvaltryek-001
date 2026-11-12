@@ -23,7 +23,7 @@ I'm a **B.E. Computer Science (Data Science)** student who builds end-to-end sof
 <td width="50%" valign="top">
 
 ### [ISL NOVA](https://github.com/nvaltryek-001/ISL-NOVA)
-<a href="https://github.com/nvaltryek-001/ISL-NOVA"><img src="https://raw.githubusercontent.com/nvaltryek-001/ISL-NOVA/main/docs/screenshots/live-recognition.png" alt="ISL NOVA live recognition screen" /></a>
+<a href="https://github.com/nvaltryek-001/ISL-NOVA"><img src="https://raw.githubusercontent.com/nvaltryek-001/ISL-NOVA/main/docs/demo/isl-nova-demo.gif" alt="ISL NOVA animated walkthrough" /></a>
 
 Consent-first platform for **Indian Sign Language** recognition, learning and dataset building, with open-set "unknown" handling instead of forced guesses.
 
@@ -33,7 +33,7 @@ Consent-first platform for **Indian Sign Language** recognition, learning and da
 <td width="50%" valign="top">
 
 ### [Pollinex AI](https://github.com/nvaltryek-001/pollinex-ai)
-<a href="https://github.com/nvaltryek-001/pollinex-ai"><img src="https://raw.githubusercontent.com/nvaltryek-001/pollinex-ai/main/docs/screenshots/desktop-02-scanner-results.png" alt="Pollinex scanner results" /></a>
+<a href="https://github.com/nvaltryek-001/pollinex-ai"><img src="https://raw.githubusercontent.com/nvaltryek-001/pollinex-ai/main/docs/demo/pollinex-demo.gif" alt="Pollinex animated walkthrough" /></a>
 
 Point a phone at a flower: detects it, recognises the species (or says *unknown*), reads stage and health, and simulates pollen transfer in 3-D.
 
@@ -55,7 +55,7 @@ Cross-platform **Flutter** app that turns origin, destination, days, budget and 
 <td width="50%" valign="top">
 
 ### [GHARLIST](https://github.com/nvaltryek-001/GHARLIST)
-<a href="https://github.com/nvaltryek-001/GHARLIST"><img src="https://raw.githubusercontent.com/nvaltryek-001/GHARLIST/main/reports/browser-uiux/desktop-products.png" alt="GHARLIST product search" /></a>
+<a href="https://github.com/nvaltryek-001/GHARLIST"><img src="https://raw.githubusercontent.com/nvaltryek-001/GHARLIST/main/docs/demo/gharlist-demo.gif" alt="GHARLIST animated walkthrough" /></a>
 
 Smart family shopping assistant: search products, dictate a list by voice, adjust quantities and share a generated report.
 
